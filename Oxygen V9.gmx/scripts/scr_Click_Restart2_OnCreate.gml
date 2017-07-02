@@ -1,0 +1,2 @@
+currentRoom = rm_1;
+

@@ -1,0 +1,2 @@
+global.Collected = 0;
+
